@@ -6,7 +6,7 @@
 - 💬 Ask me about your doubts from any of my programs👨‍💻 or anything related to it😊
 - 📫 How to reach me: You can connect with me on my gmail which is mohak.dave@gmail.com
 - 😄 Pronouns: He
--- ⚡ Fun fact: I have secured second place in Coding in Senior Category and got a trophy🏆 from Design Championship.
+-- ⚡ Fun fact: I have secured second position in Senior Category Coding and got a trophy🏆 from Design Championship.
 
 
 <!--
