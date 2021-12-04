@@ -1,4 +1,4 @@
-### Namaste, I am Mohak👋
+### Namaste🙏, I am Mohak👋
 
 - 🔭 I’m currently working on a Memory Game which consists of 1000+ lines and I am improving it and adding more features to it.
 - 🌱 I’m currently learning Python, Hissss🐍
