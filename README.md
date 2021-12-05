@@ -1,6 +1,6 @@
-### Namaste🙏, I am Mohak
+### Namaste🙏, I am Mohak!
 
-- 🔭 I’m currently working on a Memory Game which consists of 1000+ lines and I am improving it and adding more features to it.
+- 🔭 I’m currently working on a Memory Game which currently consists of 1000+ lines and I am adding more features to it.
 - 🌱 I’m currently learning Python, Hissss🐍
 - 👯 I’m looking to collaborate on Java Swing Class programs and Applets
 - 💬 Ask me about your doubts from any of my programs👨‍💻 or anything related to it😊
